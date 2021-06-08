@@ -19,9 +19,9 @@
 
 ### I am online at
 
-- Quora(http://quora.com/)
-- LeetCode(http://leetcode.com/)
-- GitHub(https://github.com/Babahan-0906/Babahan-0906.github.io/)
+- [Quora](http://quora.com/)
+- [LeetCode](http://leetcode.com/)
+- [GitHub](https://github.com/Babahan-0906/Babahan-0906.github.io/)
 
 ---
 ### I play 
