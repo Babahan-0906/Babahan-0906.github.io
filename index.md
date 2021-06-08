@@ -19,7 +19,8 @@
 
 ### I am online at
 
-- [Quora](http://quora.com/)
+<!-- - [Quora](https://www.quora.com/profile/Babahan-Babakulyyev) -->
+- <a href="https://www.quora.com/profile/Babahan-Babakulyyev">Quora</a>
 - [LeetCode](http://leetcode.com/)
 - [GitHub](https://github.com/Babahan-0906/Babahan-0906.github.io/)
 
