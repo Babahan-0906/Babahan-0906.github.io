@@ -28,8 +28,11 @@
 ### I play 
 - Clash of Clans
 - Soul Knight
-- Counter-Striek 1.6
+- Counter-Strike 1.6
 
+<?php
+   echo 'PHP';
+ ?>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
