@@ -1,0 +1,105 @@
+/*ul li {
+    
+    display: inline-block;
+    border: 2px solid brown;
+    
+}
+
+ul li a {
+    
+    text-align: center;
+    line-height: 40px;
+    display: inline-block;
+    width: 200px;
+    height: 40px;
+    
+    
+}
+ul li a:hover {
+    text-decoration: none;
+}
+
+ul li:hover {
+    
+    background: grey;
+    border: 2px solid blue;
+}
+
+p:after {
+    content: ": by me";
+    color: blue;
+}*/
+
+/*ul li {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+ul li a {
+    text-decoration: none;
+}
+ eger ichinde bolsa* shu belgi 
+a[href*="/"] {
+    color: blue;
+}
+ bashy ^ shu bilen bashlanyan bolsa 
+a[href^="yand"] {
+    color: cyan;
+}
+ sony $ gutaryan bolsa 
+a[href$="ru"] {
+    color: red;
+}
+
+ul li a:before {
+    background: lightgrey;
+    content: "it's link: ";
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.l1 {
+    background: darkblue;
+    color: white;
+}
+.l2 {
+    background: darkgreen;
+    color: white;
+}
+.l3 {
+    background: black;
+    color: white;
+}*/
+
+.men {
+    width: 400px;
+}
+ul li {
+    list-style-type: none;
+    width: 100px;
+    height: 100px;
+    background: blue;
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px;
+}
+
+ul li:nth-child(2n+1) {
+    background: red;
+}
+
+
+
+
+
+
+
+
+
